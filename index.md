@@ -17,3 +17,9 @@ train = pd.read_csv('Train.csv')
 test = pd.read_csv('Test.csv')
 definitions = pd.read_csv('VariableDefinitions.csv')
 ```
+
+##### Tomorrow's Sample List
+- [x] Touch Zindi Aglo Competition
+- [ ] Start DC certification
+- [ ] Clean % Chore
+- [ ] Get to rehearsals
